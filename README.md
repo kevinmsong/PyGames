@@ -1,3 +1,3 @@
-# Pygames
+# PyGames
 
 - Flappy Frogger

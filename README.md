@@ -1,4 +1,4 @@
 # PyGames
 
 - Flappy Frogger
-![Game](flappy_frogger.mp4)
+(https://media.giphy.com/media/dtb4rLqId46lSVq6m9/giphy.gif)

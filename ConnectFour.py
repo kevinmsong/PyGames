@@ -38,6 +38,7 @@ def drop_piece(column, piece):
         break
 
   print(board)
+  print("")
 
 def run_game():
   while(True):

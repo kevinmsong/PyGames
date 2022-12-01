@@ -2,7 +2,6 @@ import numpy as np
 import sys
 
 board = np.zeros((6, 7), dtype = "str")
-
 print("WELCOME TO CONNECT FOUR")
 
 def drop_piece(column, piece):  

@@ -14,7 +14,6 @@ def drop_piece(column, piece):
     return
 
   this_column = board[:, column - 1]
-
   counter = 0
 
   for item in this_column:
@@ -43,7 +42,6 @@ def run_game():
   while(True):
     column = int(input("Column for X: "))
     drop_piece(column, "X")
-    
     column = int(input("Column for O: "))
     drop_piece(column, "O")
 
